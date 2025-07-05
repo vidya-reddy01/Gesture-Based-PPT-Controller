@@ -23,5 +23,19 @@ This project enables hands-free PowerPoint slide control using computer vision. 
 
 
 
+                   
+# Installation & Setup
+Clone this repository:  
+  * git clone https://github.com/vidya-reddy01/Gesture-Based-PPT-Controller.git  
+  * cd Gesture-Based-PPT-Controller
+Install dependencies:  
+  * pip install -r requirements.txt  
+
+Run the script:  
+  * python Virtual_Mouse.py
+    
+Ensure your webcam is working and you're in a well-lit environment.
+
+
 
 
